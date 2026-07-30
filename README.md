@@ -2,7 +2,7 @@
 
 This is a simple Python program, written with no external dependencies, to help you learn and understand Bayesian inference through the famous Monty Hall problem.
 
-It allows you to play interactively by choosing a door and deciding whether to switch after one losing door is revealed. You can also simulate `n` games to observe the statistical behavior over a large number of trials.
+It allows you to play interactively by choosing a door and deciding whether to switch after one losing door is revealed. You can also simulate `n` games to observe the statistical behavior over a large number of trials (Law of Large Numbers).
 
 ```math
 P(\theta \mid D) = \frac{P(D \mid \theta) P(\theta)}{P(D)}
